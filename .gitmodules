@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/lucasmoraist/dev-news-web.git
+[submodule "api"]
+	path = api
+	url = https://github.com/lucasmoraist/dev-news-api.git
